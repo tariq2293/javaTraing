@@ -1,0 +1,4 @@
+1. If the total Price Exceeds 12 Rupees , apply a discount of 8% on the total price
+2. If the User has bought more than 10 Apples, automatically add a Product called "PaperBag" with Zero price
+3. Track the total Number of ShoppingCarts created so far
+4. If the totalPrice is less than 5 add a shippingCost of 5 Rs to the totalPrice
